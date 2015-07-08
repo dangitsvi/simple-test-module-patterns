@@ -12,3 +12,4 @@ describe('greet.js', function() {
   });
 });
 
+//use node's execSync for a more specific method of testing to see if the arguments are passed through properly
